@@ -4,6 +4,7 @@ I am a B.Sc. Computer Science (Honors) graduate from Keshav Mahavidyalaya, Unive
 My interests lie in identifying patterns that can support better decisions and strategies across different domains.
 
 On my GitHub, you’ll find projects where I experiment with data to uncover insights and tell stories through analytics. These projects reflect my learning journey and hands-on experience in working with data.
+<br>
 
 ## Project 1: [TransactIQ – Forecasting India’s Journey Beyond Cash with UPI](https://github.com/lakshita-03/TransactIQ)
 
