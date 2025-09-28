@@ -1,6 +1,6 @@
-## **Hi! I’m Lakshita Rawat from New Delhi, India**
+## **Hii! I’m Lakshita Rawat from New Delhi, India**
 
-I am a B.Sc. Computer Science (Honors) graduate from Keshav Mahavidyalaya, University of Delhi. I enjoy exploring data to uncover meaningful insights. 
+I am a B.Sc. Computer Science (Honors) student from Keshav Mahavidyalaya, University of Delhi. I enjoy exploring data to uncover meaningful insights. 
 My interests lie in identifying patterns that can support better decisions and strategies across different domains.
 
 On my GitHub, you’ll find projects where I experiment with data to uncover insights and tell stories through analytics. These projects reflect my learning journey and hands-on experience in working with data.
