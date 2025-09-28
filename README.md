@@ -16,5 +16,5 @@ On my GitHub, you’ll find projects where I experiment with data to uncover ins
 
 ## Project 2: [Sportswear Meets Data: Analyzing Puma’s Market Performance](https://lakshita-03.github.io/PUMA/)
 
-<img src="pic/puma1.png" alt="banner" width="45%"> <img src="pic/puma2.png" alt="banner" widht="45%" height="259"> 
+<img src="pic/puma1.png" alt="banner" width="45%"> <img src="pic/puma2.png" alt="banner" widht="45%"> 
 
