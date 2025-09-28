@@ -6,7 +6,7 @@ My interests lie in identifying patterns that can support better decisions and s
 On my GitHub, you’ll find projects where I experiment with data to uncover insights and tell stories through analytics. These projects reflect my learning journey and hands-on experience in working with data.
 <br>
 
-## Project 1: [TransactIQ – Forecasting India’s Journey Beyond Cash with UPI](https://github.com/lakshita-03/TransactIQ)
+## Project 1: [TransactIQ – Forecasting India’s Journey Beyond Cash with UPI](https://lakshita-03.github.io/TransactIQ/)
 
 <br>
 
@@ -18,7 +18,7 @@ On my GitHub, you’ll find projects where I experiment with data to uncover ins
 
 <br>
 
-<img src="pic/p1.png" alt="banner" width="45%" height="600"> <img src="pic/puma2.png" alt="banner" width="45%" height="600">
+<img src="pic/p1.png" alt="banner" width="45%"> <img src="pic/puma2.png" alt="banner" width="45%">
 
   
 
