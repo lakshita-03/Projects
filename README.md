@@ -18,7 +18,7 @@ On my GitHub, you’ll find projects where I experiment with data to uncover ins
 
 <br>
 
-<img src="pic/p1.png" alt="banner" width="45%" height="500"><img src="pic/puma2.png" alt="banner" width="45%" height="500">
+<img src="pic/p1.png" alt="banner" width="45%" height="600"> <img src="pic/puma2.png" alt="banner" width="45%" height="600">
 
   
 
