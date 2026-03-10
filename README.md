@@ -20,7 +20,7 @@ TransactIQ focuses on modeling and forecasting the growth of UPI transactions in
 ## Project 2: [Sportswear Meets Data: Analyzing Puma’s Market Performance](https://lakshita-03.github.io/PUMA/)
 <br>
 
-<img src="pic/02.png" alt="banner" width="45%"> <img src="pic/puma2.png" alt="banner" width="45%"> 
+<img src="pic/02.jpg" alt="banner" width="45%"> <img src="pic/puma2.png" alt="banner" width="65%"> 
 
 ### Summary
 This project evaluates PUMA’s sales performance in the U.S. sportswear market with a strong emphasis on competitor analysis and market positioning. The objective was to understand how PUMA performs relative to key competitors across pricing, product mix, and regional demand. Using 50,000+ sales records, I analyzed category-level performance, regional revenue distribution, and customer demand patterns. I conducted competitor benchmarking to identify pricing gaps and product positioning differences against market leaders, uncovering opportunities for differentiation in premium and mid-range segments. Based on these insights, I proposed data-backed pricing and positioning strategies with an estimated 8–10% potential revenue uplift.
@@ -34,7 +34,7 @@ This project evaluates PUMA’s sales performance in the U.S. sportswear market 
 ## Projrct 3: [Meta-Ads Analysis: Analyzing digital advertising campaign performance](https://lakshita-03.github.io/Meta-Ads/)
 <br>
 
-<img src="pic/meta.jpg" alt="banner" width="45%"> <img src="pic/ad_eve.png" alt="banner" width="45%"> 
+<img src="pic/META.jpg" alt="banner" width="45%"> <img src="pic/ad_eve_1.png" alt="banner" width="45%"> 
 
 ### Summary
 This project analyzes digital advertising campaign data to understand audience engagement, campaign performance, and targeting effectiveness. The analysis focuses on identifying high-performing campaigns, evaluating audience demographics, and uncovering patterns in user interaction with advertisements. Insights from the analysis help highlight opportunities to improve campaign targeting, optimize marketing strategies, and enhance overall advertising performance.
