@@ -4,7 +4,7 @@ Hi! I’m Lakshita, a Computer Science graduate focused on data analytics, analy
 ## Project 1: [TransactIQ – Forecasting India’s Journey Beyond Cash with UPI](https://lakshita-03.github.io/TransactIQ/)
 <br>
 
-<img src="pic/upi.png" alt="banner" width="45%"> <img src="pic/upi1.png" alt="banner" widht="45%" height=259>  
+<img src="pic/upi.png" alt="banner" width="45%"> <img src="pic/upi1.png" alt="banner" widht="45%" height=259>   
 
 ### Summary
 TransactIQ focuses on modeling and forecasting the growth of UPI transactions in India using historical transaction data. The project examines long-term adoption trends, seasonal fluctuations, and structural shifts in user behavior, particularly before and after the COVID-19 period. I curated multi-year UPI datasets, performed trend and seasonality analysis, and built an ARIMA-based time-series forecasting model to predict future transaction volumes. The analysis highlights sustained digital payment growth, recurring seasonal spikes, and the increasing dominance of UPI over traditional payment modes.
