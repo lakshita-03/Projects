@@ -34,7 +34,7 @@ This project evaluates PUMA’s sales performance in the U.S. sportswear market 
 ## Projrct 3: [Meta-Ads Analysis: Analyzing digital advertising campaign performance](https://lakshita-03.github.io/Meta-Ads/)
 <br>
 
-<img src="pic/META.jpg" alt="banner" width="45%">  <img src="pic/ad_eve_1.png" alt="banner" width="40%"> 
+<img src="pic/META.jpg" alt="banner" width="55%">  <img src="pic/ad_eve_1.png" alt="banner" width="40%"> 
 
 ### Summary
 This project analyzes digital advertising campaign data to understand audience engagement, campaign performance, and targeting effectiveness. The analysis focuses on identifying high-performing campaigns, evaluating audience demographics, and uncovering patterns in user interaction with advertisements. Insights from the analysis help highlight opportunities to improve campaign targeting, optimize marketing strategies, and enhance overall advertising performance.
