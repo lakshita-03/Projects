@@ -31,7 +31,7 @@ This project evaluates PUMA’s sales performance in the U.S. sportswear market 
 - Data visualization (Matplotlib, Seaborn)
 - Power BI dashboards for market comparison
 
-## Projrct 3: [Meta-Ads Analysis: Analyzing digital advertising campaign performance](https://lakshita-03.github.io/Meta-Ads/)
+## Project 3: [Meta-Ads Analysis: Analyzing digital advertising campaign performance](https://lakshita-03.github.io/Meta-Ads/)
 <br>
 
 <img src="pic/file.webp" alt="banner" width="45%">  <img src="pic/ad_eve_1.png" alt="banner" width="40%"> 
