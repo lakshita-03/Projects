@@ -30,5 +30,18 @@ This project evaluates PUMA’s sales performance in the U.S. sportswear market 
 - Competitor benchmarking & pricing analysis
 - Data visualization (Matplotlib, Seaborn)
 - Power BI dashboards for market comparison
-  
+
+## Projrct 3: [Meta-Ads Analysis: Analyzing digital advertising campaign performance](https://lakshita-03.github.io/Meta-Ads/)
+<br>
+
+<img src="pic/meta.jpg" alt="banner" width="45%"> <img src="pic/ad_eve.png" alt="banner" width="45%"> 
+
+### Summary
+This project analyzes digital advertising campaign data to understand audience engagement, campaign performance, and targeting effectiveness. The analysis focuses on identifying high-performing campaigns, evaluating audience demographics, and uncovering patterns in user interaction with advertisements. Insights from the analysis help highlight opportunities to improve campaign targeting, optimize marketing strategies, and enhance overall advertising performance.
+
+### Tech & Methods Used
+- SQL (SQLite) – Data exploration and campaign performance analysis
+- Microsoft Excel (Power Query) – Data cleaning and preprocessing
+- Power BI – Interactive dashboard and data visualization
+- Data Analysis Techniques – Campaign performance analysis, audience segmentation, engagement trend analysis, and marketing insights generation
 
