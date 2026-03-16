@@ -42,6 +42,6 @@ This project analyzes digital advertising campaign data to understand audience e
 ### Tech & Methods Used
 - SQL (SQLite) – Data exploration and campaign performance analysis
 - Microsoft Excel (Power Query) – Data cleaning and preprocessing
-- Power BI – Interactive dashboard and data visualization
+- [Power BI – Interactive dashboard and data visualization](https://app.powerbi.com/view?r=eyJrIjoiYzdiMzI3ODktNzM1NS00ZDliLTk2M2QtMjljYmE5YzAwYjQ4IiwidCI6IjY1MTBmNjlkLWMzZjUtNDIxZi04ZGZlLWUxZDJiYzk3ZjI3NSJ9)
 - Data Analysis Techniques – Campaign performance analysis, audience segmentation, engagement trend analysis, and marketing insights generation
 
